@@ -1,6 +1,6 @@
 # Mobile Sales Dashboard Report
 
-#### Dashboard file : [Mobile_Sales_Dashboard](https://github.com/nikitanpatil1/Mobile-Sales/blob/main/Mobile_Sales_Dashboard.pbix) (View Raw)
+#### Dashboard file : [Mobile_Sales_Dashboard](https://github.com/nikitanpatil1/Mobile-Sales/blob/main/Mobile_Sales_Dashboard.pbix) (View raw)
 
 ## Problem Statement
 
