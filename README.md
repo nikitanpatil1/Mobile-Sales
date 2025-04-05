@@ -4,10 +4,9 @@
 
 ## Problem Statement
 
-This **Mobile Sales Dashboard** is designed for business decision-makers in the mobile phone industry—likely for a retailer, distributor, or brand analyzing sales performance. It helps in *Sales Performance Tracking*, gives *Regional Insights*, performs *Time Based Analysis*, helps in analyzing *Customer Behavior*.
+This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mobile phone sales performance for retailers and brands. It includes **data transformation**, **modeling**, **DAX calculations**, and **visualization** to track key metrics. It tracks **sales trends**, **regional performance**, **customer behavior**, and **payment insights**, with **MTD** and **YoY** comparisons. The dashboard helps optimize marketing, pricing, and promotions to drive better sales and business decisions.
 
-
-### Steps followed 
+## Steps followed 
 
 - **Step 1 : Data Loading**
   
@@ -135,7 +134,7 @@ This **Mobile Sales Dashboard** is designed for business decision-makers in the 
 
 **a) Best & Worst Months for Sales**
 	   
-	  - Peak Months: Based on the line graph, sales peaked in April & July.
+	  - Peak Months: Based on the line graph, sales peaked in July.
     
 	  - Lowest Sales Months: February saw the lowest sales.
 	
