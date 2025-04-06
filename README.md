@@ -24,16 +24,16 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
     
     These terms were allocated different column each but the analysis demanded them to be combined and hence it was done using *merge column* option.
 
-     ![Image](https://github.com/user-attachments/assets/d8aaa5f3-2eab-4c89-9b9d-c0ac5b241552)
+     ![Image](https://github.com/user-attachments/assets/abb2a9a4-478c-498e-9952-0055f9ecab7e)
   
-     ![Image](https://github.com/user-attachments/assets/1fa4d3d0-20e2-4b60-a3cd-9bd7eab6a0a0)
+     ![Image](https://github.com/user-attachments/assets/069b06dd-404a-4868-b06f-a54a8d176637)
 
    - **Day Name column**
 
      This column had some mix data form, which could be processed using *Replace Values* or even *Date* option but it would just show the *Day Name* for only those dates which are present in the data.
      But for analysis each and every day from those 4 years were needed. So to deal with it Custome calender table was made.
   
-      ![Image](https://github.com/user-attachments/assets/68013721-8309-4256-96f9-d859ead37b3e)
+      ![Image](https://github.com/user-attachments/assets/9f0a7fd1-cee1-4e22-a9ee-75dd38212bdb)
 	 
     - **Custome Calender Table**
   
@@ -43,14 +43,14 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
   
           = List.Dates(#date(2021,1,1),1461,#duration(1,0,0,0))
   
-      ![Image](https://github.com/user-attachments/assets/3d56d1ad-4f14-46ef-ba73-20e4a41981c8)
+      ![Image](https://github.com/user-attachments/assets/704c3d95-7ee8-4fa7-86f4-cabb22eec561)
  
 
  - **Step 4 : Data Modeling**
 
    i.e Relationship was created between two tables.
    
-      ![Image](https://github.com/user-attachments/assets/3937402a-7ac9-4eb1-b658-2d73a3c8c459) 
+      ![Image](https://github.com/user-attachments/assets/ac24ab02-c4f7-4ab9-bffe-5c81121f871a)
 		  
 		  
 - **Step 5 : Doing required DAX calculations**
@@ -95,22 +95,22 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
 
 # Snapshot of Dashboard (Power BI DESKTOP)
 
-  ![Image](https://github.com/user-attachments/assets/01bbdfbb-f119-483d-a66c-ff4717381b34)
+  ![Image](https://github.com/user-attachments/assets/ffbd7bab-0adc-479b-8e30-740b2cc558e2)
 
  
  # Final Dashboard Snapshots
 
  ### Dashboard Snapshot
    
-   ![Image](https://github.com/user-attachments/assets/41fc63a8-3afc-4bd0-bfc8-ba3f33deaa80)
+   ![Image](https://github.com/user-attachments/assets/4329b418-b814-4ca7-a9b8-3750987d7844)
    
  ### Month To Day (MTD) Dashboard Snapshot
    
-   ![Image](https://github.com/user-attachments/assets/9cf47024-0ac1-44dd-bd6f-05b98af5051c)
+   ![Image](https://github.com/user-attachments/assets/9be3eb73-53f1-45e3-9065-944027795b36)
 	
  ### Same Period Last Year Dashboard Snapshot
    
-   ![Image](https://github.com/user-attachments/assets/c806732c-e015-4121-aef6-e2b1d74167d6)
+   ![Image](https://github.com/user-attachments/assets/3e26ef26-5915-45b1-9b63-969b8b8d5a2f)
 
 
 
@@ -185,5 +185,23 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
 - **Day-Based Promotions**
 	
 	  Midweek sales (Tuesday-Thursday) can help balance out demand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
