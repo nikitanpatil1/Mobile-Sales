@@ -22,7 +22,7 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
      
   - **Day, Month, and Year columns**
     
-    These terms were allocated different column each but the analysis demanded them to be combined and hence it was done using *merge column* option.
+    These terms were allocated different column each but the analysis demanded them to be combined and hence it was done using **merge column** option.
 
      ![Image](https://github.com/user-attachments/assets/abb2a9a4-478c-498e-9952-0055f9ecab7e)
   
@@ -30,7 +30,7 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
 
    - **Day Name column**
 
-     This column had some mix data form, which could be processed using *Replace Values* or even *Date* option but it would just show the *Day Name* for only those dates which are present in the data.
+     This column had some mix data form, which could be processed using **Replace Values** or even **Date** option but it would just show the **Day Name** for only those dates which are present in the data.
      But for analysis each and every day from those 4 years were needed. So to deal with it Custome calender table was made.
   
       ![Image](https://github.com/user-attachments/assets/9f0a7fd1-cee1-4e22-a9ee-75dd38212bdb)
@@ -75,7 +75,7 @@ This **Mobile Sales Dashboard** is a **Power BI** report designed to analyze mob
 
  - **Step 6 : Dash Board Creation**
    
-   Dashboard was created using different charts, tables, cards, slicers, map, text box to get the insight regarding various terms.
+   Dashboard was created using different **charts, tables, cards, slicers, map, text box** to get the insight regarding various terms.
    
   
   - **Step 7 : Month To Day (MTD) Calculation and Dashboard Creation**
